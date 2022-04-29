@@ -21,20 +21,23 @@ public class Harry {
 
     }
 
-
     public String getGenero() {
         return Genero;
     }
     public String getNombre(){
+
         return Nombre;
     }
     public String getCasa(){
+
         return Casa;
     }
     public String getBoggart(){
+
         return Boggart;
     }
     public String getPatronus(){
+
         return Patronus;
     }
 
